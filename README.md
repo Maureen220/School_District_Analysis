@@ -23,10 +23,10 @@ With this analysis, one could deduce the correlation between each of these metri
 Please observe the following: 
 
 **Thomas High Results Including Ninth Grade Students:**
-![ths_including_ninth_grade.png](Resources\ths_including_ninth_grade.png)
+![ths_including_ninth_grade.png](Resources/ths_including_ninth_grade.png)
 
 **Thomas High Results Without Ninth Grade Students:**
-![ths_without_ninth_grade.png](Resources\ths_without_ninth_grade.png)
+![ths_without_ninth_grade.png](Resources/ths_without_ninth_grade.png)
 
 From the results above, one can conclude that there was a 0.32% difference in the overall passing percent for Thomas High. Although there were 461 students in the ninth grade whose scores were omitted, there was not a huge impact on the overall scores for the whole school. We can attribute this to the carried weight of the scores from the 10th through 12th grades. 
 
@@ -39,11 +39,11 @@ Please observe the following:
 
 **Overall Passing Percent Including Thomas High Ninth Grade:**
 
-![percent_passing_overall_including_ths_ninth.png](Resources\percent_passing_overall_including_ths_ninth.png)
+![percent_passing_overall_including_ths_ninth.png](Resources/percent_passing_overall_including_ths_ninth.png)
 
 **Overall Passing Percent Without Thomas High Ninth Grade:**
 
-![percent_passing_overall_without_ths_ninth.png](Resources\percent_passing_overall_without_ths_ninth.png)
+![percent_passing_overall_without_ths_ninth.png](Resources/percent_passing_overall_without_ths_ninth.png)
 
 The results above clearly state that the small percent of change in the Thomas High overall passing percent had no effect on the average scores for the entire district. 
 
@@ -55,11 +55,11 @@ Please observe the following:
 
 **Total Summary Including Thomas High Ninth Grade:**
 
-![total_summary_including_ninth_grade_ths.png](Resources\total_summary_including_ninth_grade_ths.png)
+![total_summary_including_ninth_grade_ths.png](Resources/total_summary_including_ninth_grade_ths.png)
 
 **Total Summary Without Thomas High Ninth Grade:**
 
-![total_summary_without_ninth_grade_ths.png](Resources\total_summary_without_ninth_grade_ths.png)
+![total_summary_without_ninth_grade_ths.png](Resources/total_summary_without_ninth_grade_ths.png)
 
 Upon close observation of the two total summary charts, one could come to a reasonable conclusion that Thomas High School's high test scores are likely due to the size (medium population), budget ($630-644 per student), and type (Charter). Even with the omission of the ninth grade, Thomas High still saw overall even success rates in each grade. Similar schools saw almost replicated successes, such as Shelton High School. Other schools with larger populations, district types, in yet similar budgets per student saw lower test scores, so adjustments would be needed by the district authorities to increase their success rates. 
 Additionally, there may be other factors affecting the test scores in the district that are uncontrollable by district authorities, such as student household income and neighborhood. These areas might require more data analysis to reach a conclusion for students per high school. 
